@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericQueryAnalyzer", "GenericQueryAnalyzer\GenericQueryAnalyzer.csproj", "{0F501C69-958C-4E84-AA27-768ED6FEB2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericQueryAnalyzerLib", "GenericQueryAnalyzerLib\GenericQueryAnalyzerLib.csproj", "{9D56002F-FC81-44A5-AB04-30F7CA80EFEA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GenericQueryAnalyzerSetup", "GenericQueryAnalyzerSetup\GenericQueryAnalyzerSetup.vdproj", "{380A7B7D-84D7-4A36-B76E-9E7763DC6579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F501C69-958C-4E84-AA27-768ED6FEB2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F501C69-958C-4E84-AA27-768ED6FEB2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F501C69-958C-4E84-AA27-768ED6FEB2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F501C69-958C-4E84-AA27-768ED6FEB2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D56002F-FC81-44A5-AB04-30F7CA80EFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D56002F-FC81-44A5-AB04-30F7CA80EFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D56002F-FC81-44A5-AB04-30F7CA80EFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D56002F-FC81-44A5-AB04-30F7CA80EFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380A7B7D-84D7-4A36-B76E-9E7763DC6579}.Debug|Any CPU.ActiveCfg = Debug
+		{380A7B7D-84D7-4A36-B76E-9E7763DC6579}.Release|Any CPU.ActiveCfg = Release
+		{380A7B7D-84D7-4A36-B76E-9E7763DC6579}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
